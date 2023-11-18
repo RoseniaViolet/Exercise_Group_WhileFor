@@ -1,5 +1,5 @@
 # Exercise_Group_WhileFor
 # Bài tập nhóm 12
-# Nguyễn Hoàng Duy
-# Nguyễn Thị Trang
-# Phan Hồ Khôi Nguyên
+# Nguyễn Hoàng Duy (22)
+# Nguyễn Thị Trang (57)
+# Phan Hồ Khôi Nguyên (38)
